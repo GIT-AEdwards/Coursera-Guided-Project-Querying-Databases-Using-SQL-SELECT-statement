@@ -20,7 +20,7 @@ Welcome to this project-based course on querying database using SQL SELECT state
 - Still confident and happy to work with databases.
 - Learned a couple new facts / abilities (making queries more simple, clean and effective.)
 
-# Fast Facts Refreshed / Gained:
+# Fast Facts - What I Understand:
 - The wildcard character _ (underscore) matches a single character; % (percentage sign) matches a sequences of characters, and * (asterisk) matches all characters.
 - To sort a result set in SQL, the ORDER BY statement is used. In addition, we use ASC to sort in ascending order and DESC to sort in descending order. Also, when the order is not specified, SQL sorts the result set in ascending order by default.
 - The LIMIT statement that sets a limit on the result set is returned last.
