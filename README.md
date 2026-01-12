@@ -13,3 +13,23 @@ Welcome to this project-based course on querying database using SQL SELECT state
 - Retrieve data from a database using different wildcard characters with the WHERE clause
 - Use other comparison operators together with the WHERE clause
 - Select distinct data from tables, sort result set, limit the result set, and give a temporary name to a column of a table
+
+# Result / Brief Reflection
+- Quick refresher on skills previously learned in DAD-220.
+- Earned a certificate for this project.
+- Still confident and happy to work with databases.
+- Learned a couple new facts / abilities (making queries more simple, clean and effective.)
+
+# Fast Facts Refreshed / Gained:
+- The wildcard character _ (underscore) matches a single character; % (percentage sign) matches a sequences of characters, and * (asterisk) matches all characters.
+- To sort a result set in SQL, the ORDER BY statement is used. In addition, we use ASC to sort in ascending order and DESC to sort in descending order. Also, when the order is not specified, SQL sorts the result set in ascending order by default.
+- The LIMIT statement that sets a limit on the result set is returned last.
+- SELECT DISTINCT is used to retrieve different and distinct values of a column of a table.
+- BETWEEN - AND helps us designate the interval to which a given value belongs.
+- The wildcard characters % matches a sequence of characters. Therefore, the % in front of ar and % at the end shows that the characters ar follow in all the names returned.
+- The logical operator precedence is an SQL rule stating that in the execution of the query, the operator AND is applied first, while the operator OR is applied second.
+- LIKE and NOT LIKE are used in the WHERE clause with wildcard characters to match specific patterns in a column of a table.
+- The WHERE clause allows us to set a condition upon which we will specify what part of the data we want to retrieve from the database.
+- FROM indicates the table we want to retrieve data from.
+- The SELECT statement indicates the columns or fields of a table.
+
