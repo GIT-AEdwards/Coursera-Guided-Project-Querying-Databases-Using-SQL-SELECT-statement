@@ -16,7 +16,7 @@ Welcome to this project-based course on querying database using SQL SELECT state
 
 # Result / Brief Reflection
 - Quick refresher on skills previously learned in DAD-220.
-- Earned a certificate for this project.
+- Earned a certificate for this project. (This certificate can be viewed on my LinkedIn profile.)
 - Still confident and happy to work with databases.
 - Learned a couple new facts / abilities (making queries more simple, clean and effective.)
 
